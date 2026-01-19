@@ -1,0 +1,6 @@
+# Dictionary GUI Requirements
+# tkinter - built-in (GUI framework)
+# itertools - built-in (for cycling through colors)
+
+# External dependencies
+requests==2.31.0
