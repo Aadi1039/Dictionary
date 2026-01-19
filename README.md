@@ -1,40 +1,120 @@
 # Dictionary
 
-## 🧠 Seven Heaven Dictionary
-A stylish and intelligent desktop dictionary app built using Python and Tkinter. Look up word definitions, parts of speech, and usage examples in real-time from the Free Dictionary API. Designed with a smooth animated interface inspired by Microsoft's Copilot aesthetic.
+# 📘 Seven Heaven Dictionary  
+### 🧠 Powered by Python & Tkinter  
 
-##🎯 Features
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)  
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)  
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributions%20Welcome-orange)  
 
-- 🔍 Search for any English word instantly
+> A beautiful and interactive **desktop dictionary app** built using **Python Tkinter**, fetching real-time definitions from an online dictionary API.
 
-- 📘 Displays multiple definitions, parts of speech, and examples
+---
 
-- 🎨 Animated background transitions and glowing rounded header
+## ✨ Features
 
-- 💻 Clean, modern UI with soft color gradients and responsive layout
+- 🔍 Search any English word  
+- 📌 Displays:
+  - Part of speech  
+  - Meanings  
+  - Examples  
+- 🎨 Smooth animated background  
+- 🧠 Clean & modern UI  
+- 💻 Beginner-friendly  
+- 🛠 Open-source ready
 
-- 💡 Error handling for invalid words or API issues
+---
 
-## 🛠️ Tech Stack
+## 🖼️ Preview
 
-- Python 3+
+<img width="862" alt="Screenshot 2025-06-25 at 5 07 58 AM" src="https://github.com/user-attachments/assets/43e508c2-11a6-4b21-b452-977ce3999b4d" />
 
-- Tkinter for GUI
 
-- Requests for API calls
+---
 
-- itertools for animation cycles
+## 🚀 Getting Started
 
-## 📸 Preview
+### 🔹 Clone the Repository
 
-<img width="862" alt="Screenshot 2025-06-25 at 5 07 58 AM" src="https://github.com/user-attachments/assets/43e508c2-11a6-4b21-b452-977ce3999b4d" />
 
-## 📚 Future Enhancements
+### 🔹 Install Dependencies
 
-- Voice pronunciation
 
-- Dark mode toggle
+### 🔹 Run the App
 
-- Save-to-history or notes
 
-- Synonyms and antonyms tab
+---
+
+## 🧩 Tech Stack
+
+| Technology | Use |
+|-----------|-----|
+| Python | Logic |
+| Tkinter | GUI |
+| Requests | API calls |
+| DictionaryAPI.dev | Word meanings |
+
+---
+
+## 🌍 API Used
+
+https://api.dictionaryapi.dev/api/v2/entries/en/
+
+
+No API key required.
+
+---
+
+## 💡 Contribution Ideas
+
+We welcome all types of contributions!
+
+### 🎨 UI Improvements
+- Add dark mode
+- Improve animations
+- Add custom fonts/themes
+
+### ⚙️ Functional Improvements
+- Add synonyms & antonyms
+- Add pronunciation audio
+- Add word history
+- Add multi-language support
+
+### 🧠 Advanced Features
+- Speech-to-text search
+- Word prediction using ML
+- Save/export definitions
+
+---
+
+## 📂 Folder Structure
+
+Dictionary/
+│
+├── main.py
+├── README.md
+└── requirements.txt
+
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork this repository  
+2. Create your feature branch  
+3. Commit your changes  
+4. Push to GitHub  
+5. Submit a Pull Request 🚀  
+
+---
+
+## 📜 License
+
+This project is open-source under the **MIT License**.
+
+---
+
+## 💙 Author
+
+**Aditya Kumar**  
+Built with passion for learning and open-source collaboration.
